@@ -1,4 +1,4 @@
-## Mr. Will Covello
+# Mr. Will Covello
 
 Class of 2025 Alumni at [St. Andrew's College](https://www.sac.on.ca)
 
@@ -6,8 +6,7 @@ Currently studying Mechanical Engineering at [The University of Southampton](htt
 
 Part of Vehicle Dynamics at [SUFST](https://www.sufst.co.uk)
 
-#Contact Information
+### Contact Information
 
-📧[Email](wc1u25@soton.ac.uk)
-
+📧[Email](wc1u25@soton.ac.uk) 
 🔗[LinkedIn](linkedin.com/in/willcovello)
